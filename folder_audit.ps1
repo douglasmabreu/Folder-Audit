@@ -1,6 +1,5 @@
 
-# Este script PowerShell analisa um diretório especificado para identificar arquivos e pastas criados, modificados ou excluídos.
-# O script agora inclui a propriedade Usuario, que contém o proprietário do arquivo ou pasta.
+# Este script PowerShell analisa um diretório especificado para identificar arquivos e pastas criados, modificados ou excluídos. Baseados em eventos do Windows.
 
 # Caminho principal para análise
 $rootPath = "C:\"  # Altere para o diretório desejado
