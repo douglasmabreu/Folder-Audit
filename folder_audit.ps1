@@ -3,7 +3,7 @@
 # O script agora inclui a propriedade Usuario, que contém o proprietário do arquivo ou pasta.
 
 # Caminho principal para análise
-$rootPath = "C:\Elotech"  # Altere para o diretório desejado
+$rootPath = "C:\"  # Altere para o diretório desejado
 
 # Número de dias para filtrar arquivos e pastas criados, modificados ou excluídos
 $daysToAnalyze = 1  
