@@ -1,4 +1,4 @@
-Script em powershell para facilitar autidoria de pastas, podendo colocar um intervalo de dias e qual pasta necessária, o mesmo gera um relatório TXT em sua área de trbalho com as informações abaixo.
+Script em powershell para facilitar autidoria de pastas  baseados em eventos do Windows, podendo colocar um intervalo de dias e qual pasta necessária, o mesmo gera um relatório TXT em sua área de trbalho com as informações abaixo.
 
 
 DOD
